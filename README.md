@@ -12,4 +12,4 @@
 
 <url> https://github.com/finnbergquist/IsingModel </url>
 
-<url> https://github.com/finnbergquist/traffic_model_simulation </url>
+<url> https://github.com/finnbergquist/trafficModelSim </url>
