@@ -6,7 +6,7 @@
 
 
 <h3> Paper Writeup: </h3>
-<url> https://github.com/finnbergquist/IsingModel](https://github.com/finnbergquist/fluid_dynamic/blob/main/Paper%20Writeup.pdf </url>
+<url> https://github.com/finnbergquist/fluid_dynamic/blob/main/Paper%20Writeup.pdf </url>
 
 <h2> Other research: </h2>
 
